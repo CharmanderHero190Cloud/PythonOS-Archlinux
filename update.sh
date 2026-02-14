@@ -1,7 +1,7 @@
 #!/bin/bash
 
 FILE="pythonos.py"
-URL="https://raw.githubusercontent.com/CharmanderHero190Cloud/PythonOS-Archlinux/root/pythonos.py"
+URL="https://raw.githubusercontent.com/CharmanderHero190Cloud/PythonOS-Archlinux/main/pythonos.py"
 
 # Function: Print red error
 error() {
